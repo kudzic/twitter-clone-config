@@ -1,2 +1,2 @@
 # twitter-clone-config
-Twitter Clone Config Respositoty
+Twitter Clone Config Respository
